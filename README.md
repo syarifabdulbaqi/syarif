@@ -1,7 +1,6 @@
 # syarif
 tugas TBO pertemuan 5
 <body>
-  tugas TBO
   </body>
   <form>
   nama depan:<input name="nama depan"
